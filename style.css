@@ -1,0 +1,23 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Open Sans', Arial, sans-serif; color: #1f1f1f; line-height: 1.6; background: #f8f6f4; }
+.container { max-width: 1100px; margin: 0 auto; padding: 2rem 1rem; }
+.hero { background: linear-gradient(135deg, #0f172a 0%, #1c2a41 100%); color: #fff; min-height: 82vh; display: flex; align-items: center; }
+.hero-content { max-width: 640px; }
+.eyebrow { text-transform: uppercase; letter-spacing: 0.12em; color: #86a5d1; margin-bottom: 0.75rem; font-size: 0.82rem; }
+.hero h1 { font-family: 'Playfair Display', serif; font-size: clamp(2rem, 5vw, 4rem); margin-bottom: 1rem; line-height: 1.1; }
+.lead { font-size: 1.15rem; margin-bottom: 1.5rem; color: #e7eaf1; }
+.hero-actions { display: flex; gap: 0.75rem; flex-wrap: wrap; }
+.btn { display: inline-flex; align-items: center; justify-content: center; border-radius: 50px; padding: 0.85rem 1.38rem; font-weight: 700; text-decoration: none; trans* { box-sizing: border-box; margin: 0; padding: 0; }
+body { foolbody { font-family: 'Open Sans', Arial, sans-s transl.container { max-width: 1100px; margin: 0 auto; padding: 2rem 1rem; }
+.hero { background: linear-gradient(1 2.hero { background: linear-gradient(135deg, #0f172a 0%, #1c2a41 100% }.hero-content { max-width: 640px; }
+.eyebrow { text-transform: uppercase; letter-spacing: 0.12em; color: #86a5d1; margin-bottom: 0.75rem;  s.eyebrow { text-transform: upper 2re.hero h1 { font-family: 'Playfair Display', serif; font-size: clamp(2rem, 5vw, 4rem); margin-bottom: 1rem; line-height: 1.
+..lead { font-size: 1.15rem; margin-bottom: 1.5rem; color: #e7eaf1; }
+.hero-actions { display: flex; gap: 0.75rem; flex-wrap: g:.hero-actions { display: flex; gap: 0.75rem; flex-wrap: wrap; }
+.bt m.btn { display: inline-flex; align-items: center; justify-2a; cobody { foolbody { font-family: 'Open Sans', Arial, sans-s transl.container { max-width: 1100px; margin: 0 auto; padding: 2rem 1rem; }
+.hero { background: linear-gradient(1 2.hero { background: linear-gradient(135deg, #012.hero { background: linear-gradient(1 2.hero { background: linear-gradient(135deg, #0f172a 0%, #1c2a41 100% }.hero-content { max-wide:.eyebrow { text-transform: uppercase; letter-spacing: 0.12em; color: #86a5d1; margin-bottom: 0.75rem;  s.eyebrow { text-transform: upper 2re.hets..lead { font-size: 1.15rem; margin-bottom: 1.5rem; color: #e7eaf1; }
+.hero-actions { display: flex; gap: 0.75rem; flex-wrap: g:.hero-actions { display: flex; gap: 0.75rem; flex-wrap: wrap; }
+.bt m.btn { display: inline-flex; align-items: center; justirem; font-w.hero-actions { display: flex; gap: 0.75rem; flex-wrap: g:.hero-actimp.bt m.btn { display: inline-flex; align-items: center; justify-2a; cobody { foodius: 16px; box-shadow: 0 14px 22px rgba(19.hero { background: linear-gradient(1 2.hero { background: linear-gradient(135deg, #012.hero { background: linear-gradient(1 2.hero { background: linear-gradient(135deg, #0f172a 0%, #1c2a41 100% }.heroig.hero-actions { display: flex; gap: 0.75rem; flex-wrap: g:.hero-actions { display: flex; gap: 0.75rem; flex-wrap: wrap; }
+.bt m.btn { display: inline-flex; align-items: center; justirem; font-w.hero-actions { display: flex; gap: 0.75rem; flex-wrap: g:.hero-actimp.bt m.btn { display: inline-flex; align-items: center; justify-2a; cobody { foodius: 16px; box-shadow: 0 14px 22px rgba(19.hero { background: linear-gradient(1 2.hero { bakg.bt m.btn { display: inline-flex; align-items: center; justirem; font-w.hero-actions { display: flex; gap: 0.75rem; flexce.bt m.btn { display: inline-flex; align-items: center; justirem; font-w.hero-actions { display: flex; gap: 0.75rem; flex-wrap: g:.hero-actimp.bt m.btn { display: inline-flex; align-items: center; jcontent { text-align: center; margin: 0 auto; }
+  .hero-actions { justify-content: center; }
+  .footer-grid { flex-direction: column; align-items: flex-start; }
+}
